@@ -177,6 +177,23 @@
 
 **Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWWnjdEvk) (media id `MAHWWnjdEvk`) — imagen generada por IA; reemplazar por foto real del producto en cuanto exista.
 
+### Variantes de la Imagen 2 por diseño (mismo copy, un estático por estampado)
+Para el test de "qué diseño vende más": lanzar una variante por diseño en el mismo conjunto de anuncios y dejar que el algoritmo reparta.
+
+| Diseño | Creativo |
+|---|---|
+| Rojo · Papá Noel y renos | [Abrir en Canva](https://www.canva.com/M/MAHWWnjdEvk) |
+| Crema · Papá Noel, renos y muñecos de nieve | [Abrir en Canva](https://www.canva.com/M/MAHWWkR36Zk) |
+| Cuadros verde/rojo con moños | [Abrir en Canva](https://www.canva.com/M/MAHWWlqr4JE) |
+| Rayas y estrellas (rojo/azul) | [Abrir en Canva](https://www.canva.com/M/MAHWWgVVDIw) |
+| Nórdico crema con copos rojo/verde | [Abrir en Canva](https://www.canva.com/M/MAHWWtIUw0w) |
+| Azul · muñecos de nieve | [Abrir en Canva](https://www.canva.com/M/MAHWWg18pg0) |
+| Verde · "Merry Christmas" con rombos | [Abrir en Canva](https://www.canva.com/M/MAHWWpVNO0E) |
+| Amarillo · Papá Noel | [Abrir en Canva](https://www.canva.com/M/MAHWWpIrFYQ) |
+| Rosado · "Ho Ho Ho" | [Abrir en Canva](https://www.canva.com/M/MAHWWrhZqXE) |
+
+Todas son imágenes generadas por IA a partir de una descripción de los diseños reales: los estampados se parecen pero no son idénticos. Reemplazar por fotos reales de cada diseño antes de pautar.
+
 ---
 
 ## ✅ Checklist de compliance (las 6 piezas)
