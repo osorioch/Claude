@@ -168,6 +168,8 @@
 **Caption:** "No eres la única persona cansada de la ropa mojada regada por toda la casa. Así lo están usando en toda Colombia. Pagas cuando te llega. 🧺✅"
 **Brief visual:** Grid 2x2 o 3x2 con: (1) foto de producto en uso en una casa real, (2) captura de reseña/testimonio con estrellas, (3) foto del tendedero plegado guardado, (4) foto de cerca de la rejilla/niveles. Fondo limpio, tipografía simple, sin exceso de elementos.
 
+**Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWWuCYA-c) (media id `MAHWWuCYA-c`) — editable: reemplazar las 4 fotos placeholder generadas por IA por fotos reales del producto/clientes en cuanto existan.
+
 ---
 
 ## 🖼️ IMAGEN 2 — Most aware · Text-based con oferta
@@ -177,6 +179,8 @@
 **Texto on-image:** "Envío a toda Colombia · Pagas contraentrega · Se pliega y guarda en segundos"
 **Caption:** "Sin adelantar un peso. Pides hoy, y solo pagas cuando el tendedero esté en tus manos. 🧺"
 **Brief visual:** Foto de producto en primer plano sobre fondo limpio (blanco o de casa real), con badge visual "Pagas contraentrega" y "Envío a todo el país". Sin descuentos falsos ni contador de tiempo engañoso.
+
+**Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWWq6V13c) (media id `MAHWWq6V13c`) — editable: reemplazar la foto de producto placeholder por una foto real del tendedero en cuanto exista.
 
 ---
 

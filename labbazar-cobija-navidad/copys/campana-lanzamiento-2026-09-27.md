@@ -165,6 +165,8 @@
 **Caption:** "No eres la única persona buscando algo que combine comodidad y buena presentación para diciembre. Así lucen en casas reales. Pagas cuando te llega. 🎄✅"
 **Brief visual:** Grid 2x2 o 3x2 con: (1) foto de la cobija puesta en un sofá real, (2) captura de reseña/testimonio con estrellas, (3) detalle de textura de cerca, (4) foto ambientada con luces cálidas de fondo. Fondo limpio, tipografía simple.
 
+**Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWWuD0Uss) (media id `MAHWWuD0Uss`) — editable: reemplazar las 4 fotos placeholder generadas por IA por fotos reales del producto/clientes en cuanto existan.
+
 ---
 
 ## 🖼️ IMAGEN 2 — Most aware · Text-based con oferta
@@ -174,6 +176,8 @@
 **Texto on-image:** "Envío a toda Colombia · Pagas contraentrega · Ideal para diciembre"
 **Caption:** "Sin adelantar un peso. Pides hoy, y solo pagas cuando la cobija esté en tus manos. 🎄"
 **Brief visual:** Foto de producto en primer plano sobre fondo navideño sutil (sin saturar de elementos), badge visual "Pagas contraentrega" y "Envío a todo el país". Sin descuentos falsos ni contador de tiempo engañoso.
+
+**Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWWiKn8EQ) (media id `MAHWWiKn8EQ`) — editable: reemplazar la foto de producto placeholder por una foto real de la cobija en cuanto exista.
 
 ---
 
