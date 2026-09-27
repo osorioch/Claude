@@ -1,195 +1,195 @@
-# CAMPAÑA LANZAMIENTO — Cobija Navideña (+ set decorativo) — labbazar.co — 2026-09-27
+# CAMPAÑA LANZAMIENTO — Cobija + Cortina Navideña a juego — labbazar.co — 2026-09-27
 
 ## Contexto
-- **Producto:** Cobija/manta suave temática u ovejera para sala/cuarto, ambientación navideña de casa
+- **Producto:** Set de 2 piezas: **cobija para cama + cortina a juego con el mismo estampado navideño**. Nada más (no incluye sábanas ni fundas).
+- **Diseños:** estampados grandes y llamativos — Papá Noel, muñecos de nieve, renos, cuadros escoceses con moños, rayas con copos — en varios colores (crema, rojo, verde, azul, amarillo).
 - **País/idioma:** Colombia (español neutro)
 - **Tienda:** labbazar.co (Shopify)
-- **Oferta COD:** pagas cuando lo recibes, envío contraentrega (definir precio final en landing)
-- **Modo:** Embudo completo
+- **Oferta COD:** pagas cuando lo recibes, envío contraentrega (precio final en la landing)
+- **Modo:** Embudo completo (no hay ángulo validado aún)
 - **Research DropKiller (27-sep-2026):**
-  - "Cobija ovejera unicolor piel de ángel" (Good Home, CO) — 51 días activo, ángulo: espacios elegantes/limpios/sofisticados, textura extra suave, diseño minimalista.
-  - "Combo 3 cobijas" (Good Home, CO) — 23 días activo, ángulo de ocasión ("ver cada partido/plan en familia") + combo con envío gratis — confirma que el formato combo/set funciona en esta categoría.
-  - Temu Colombia corre varios ads de "decoración navideña" y "ropa de cama de franela" de forma recurrente en la temporada — confirma demanda estacional alta de decor de casa para diciembre, aunque son ads genéricos de catálogo (poca especificidad de copy, oportunidad para diferenciarnos con historia real).
-  - **Conclusión:** la categoría "cobija para sala/cuarto" tiene tracción real en CO (Good Home sostuvo 51 días con ángulo de sofisticación), y diciembre agrega urgencia estacional legítima. Ángulos que funcionan: comodidad/lujo accesible, combo/set con más de una pieza, ocasión (ver películas/partidos en familia, decorar para visitas navideñas).
+  - **Nadie está pautando el combo cobija + cortina navideña** en CO/MX/EC/PE/CL. Lo más parecido son anuncios de catálogo genérico de Temu ("ropa de cama de franela", "tu casa acogedora en navidad", hasta 159 días activos en temporada), sin historia ni copy propio. Espacio abierto.
+  - Categoría ropa de cama sí está muy validada en CO: "Juego de sábanas extra suave" (Good Home) con variantes de **425, 242, 236 y 222 días activos**, y "Transforma tu cama" (158 días). Ángulo ganador: transformación del cuarto + sensación ("ese momento cuando te metes a la cama y todo se siente bien").
+  - "Cobija ovejera piel de ángel" (Good Home, 51 días) y "Combo 3 cobijas" (23 días): el formato combo funciona en cobijas.
+  - **Conclusión:** la demanda de "transformar el cuarto" está probada; el diferencial nuestro es que con 2 piezas a juego el cuarto entero queda navideño. Ese es el ángulo central.
 
 ### Referencias visuales (DropKiller) — solo para inspirar ritmo/encuadre, NO para reutilizar tal cual
 | Referencia | Anunciante | Días activo | Video |
 |---|---|---|---|
-| "Cobija ovejera piel de ángel" | Good Home | 51 (CO) | https://cdndropkiller.com/legacy-vercel-blob/iyqfgztixgy5bboz.public.blob.vercel-storage.com/ads/c9f40779-bcba-4e53-8f81-f59956e366c9/videos/af62c6d98dc2.mp4 |
-| "Combo 3 cobijas" | Good Home | 23 (CO) | https://cdndropkiller.com/legacy-vercel-blob/iyqfgztixgy5bboz.public.blob.vercel-storage.com/ads/58c232de-5938-4570-8490-bacf93754a91/videos/63d61914f049.mp4 |
-
-**Nota:** no hay competencia activa hoy con ángulo navideño específico y copy propio (los de Temu son de catálogo genérico) — espacio abierto para una historia real de "ambientar la casa para diciembre" en vez de solo vender la cobija como producto suelto.
+| "Sumérgete en el lujo de nuestras sábanas" | Good Home | 425 (CO) | https://cdndropkiller.com/legacy-vercel-blob/iyqfgztixgy5bboz.public.blob.vercel-storage.com/ads/7b2bc2d4-e4c0-441e-b459-84f481a78cc7/videos/9d2051e41a1a.mp4 |
+| "Transforma tu cama" | Good Home | 158 (CO) | https://cdndropkiller.com/legacy-vercel-blob/iyqfgztixgy5bboz.public.blob.vercel-storage.com/ads/a3578fc4-07fc-4b35-b086-53a57020ca31/videos/55271febea15.mp4 |
+| "Tu casa acogedora en navidad" | Temu Colombia | 159 (CO) | https://cdndropkiller.com/legacy-vercel-blob/iyqfgztixgy5bboz.public.blob.vercel-storage.com/ads/155238fc-a19a-49fd-ac0f-dbb9dfa93c24/videos/9dea4f3a1cc8.mp4 |
 
 ---
 
 ## 🎥 VIDEO 1 — Unaware · Storytime/Trigger-event (TikTok-first)
 **Framework:** SB7 + Epiphany Bridge · **Duración:** 30-40s
 
-**Ángulo:** Trigger-event — el momento en que te das cuenta de que tu sala/cuarto no se siente "de diciembre" todavía, sin necesidad de gastar en decoración completa.
+**Ángulo:** Trigger-event — llega diciembre, la sala ya tiene árbol, pero el cuarto sigue igual que todo el año.
 
 **Hooks modulares:**
-- `V1-HOOK-A` (POV/trigger): "POV: prendiste una peli de navidad pero tu sala se sigue sintiendo como cualquier martes de octubre."
-- `V1-HOOK-B` (curiosidad): "No sabía que con una sola cosa podía cambiar toda la sensación de mi sala en diciembre."
-- `V1-HOOK-C` (pattern interrupt visual): Sala normal → tira la cobija sobre el sofá → "esto fue lo único que cambié."
+- `V1-HOOK-A` (POV/trigger): "POV: armaste el árbol, pusiste luces en la sala… y tu cuarto sigue igualito que en junio."
+- `V1-HOOK-B` (curiosidad): "Con solo 2 cosas mi cuarto quedó más navideño que toda la casa."
+- `V1-HOOK-C` (pattern interrupt visual): Cuarto normal → corte → misma toma con la cobija puesta y la cortina colgada → "2 piezas. Eso fue todo."
 
-**Guion (usando V1-HOOK-A):**
-- 0-3s: (A cámara, celular, luz natural, sofá al fondo) "POV: prendiste una peli de navidad pero tu sala se sigue sintiendo como cualquier martes de octubre."
-- 3-8s: "Y uno piensa que para que se sienta diciembre toca comprar árbol, luces, adornos, toda la vuelta."
-- 8-15s: "Pero resulta que con una cobija bien elegida el sofá ya se siente distinto. Esta es la que compré."
-- 15-22s: (Demo: extender la cobija sobre el sofá, mostrar textura) "Es suave, gruesa, y le cambia toda la vibra a la sala sin mover un solo mueble."
-- 22-30s: (Plano final: sala con luces bajas, cobija en el sofá, ambiente cálido) "Literal 2 minutos y ya se siente diciembre."
-- 30-38s: "Si tu casa todavía no tiene nada de navidad, empieza por acá. Te llega a tu casa y pagas cuando la recibas."
+**Guion (usando V1-HOOK-B):**
+- 0-3s: (A cámara, celular, luz natural del cuarto) "Con solo 2 cosas mi cuarto quedó más navideño que toda la casa."
+- 3-8s: "Uno piensa que decorar el cuarto es llenarlo de adornos, y al final no cabe nada y se ve cargado."
+- 8-15s: "Yo compré esto: una cobija navideña y la cortina con el mismo estampado."
+- 15-22s: (Demo: extiende la cobija sobre la cama, cuelga la cortina) "La cobija encima de la cama, la cortina en la ventana, y listo."
+- 22-30s: (Plano wide del cuarto terminado, luz cálida) "Mira cómo quedó. Todo a juego, cero adornos regados."
+- 30-38s: "Si tu cuarto todavía no se siente de diciembre, empieza por acá. Te llega a la casa y pagas cuando lo recibas."
 
 **Storyboard (planos):**
-1. Selfie mode, sala normal, sin ambientar.
-2. Insert: escena de peli navideña en el TV de fondo (referencia, no usar contenido con copyright real en el ad final).
-3. Manos extendiendo la cobija sobre el sofá.
-4. Detalle de textura (mano acariciando la tela).
-5. Plano final wide, sala con luces cálidas y cobija puesta.
-6. Cierre a cámara con CTA.
+1. Selfie mode en el cuarto sin decorar.
+2. Manos sacando la cobija y la cortina del empaque.
+3. Time-lapse: extender la cobija y colgar la cortina.
+4. Plano wide: cama + ventana con el mismo estampado.
+5. Cierre a cámara con CTA.
 
-**Texto onscreen:** "mi sala en octubre 😐" → "mi sala 2 minutos después 🎄" → "pagas cuando te llegue"
+**Texto onscreen:** "mi cuarto en diciembre 😐" → "2 piezas después 🎄" → "pagas cuando te llegue"
 
-**Nota de producción "ugly":** Celular, luz cálida/tenue real de la casa (no editada), hablar como si le contaras el hallazgo a una amiga.
+**Nota de producción "ugly":** Celular, luz real del cuarto, sin ring light. Que se vea el cuarto de verdad, no un set.
 
-**Caption Meta:** "No necesitas decorar toda la casa para que se sienta diciembre. Empieza por el sofá. Te llega a tu casa y pagas cuando la recibas. 🎄"
+**Caption Meta:** "Cobija y cortina con el mismo estampado navideño: con solo 2 piezas tu cuarto queda listo para diciembre. Te llega a tu casa y pagas cuando lo recibas. 🎄"
 
-**Caption TikTok:** "con esto solo ya cambió toda la vibra de mi sala 😭🎄 #navidad #decoracionnavideña #colombia #paracontraentrega"
+**Caption TikTok:** "2 cosas y mi cuarto quedó más navideño que la sala 😭🎄 #navidad #decoracionnavideña #colombia #paracontraentrega"
 
 ---
 
 ## 🎥 VIDEO 2 — Problem aware · UGC testimonial / ugly ad
 **Framework:** PAS microhistoria + hook MAGIC · **Duración:** 15-25s
 
-**Ángulo:** Pain — cobijas delgadas/ásperas que no abrigan bien, o que se ven "cualquiera" y no combinan con la decoración de diciembre.
+**Ángulo:** Pain — decorar el cuarto con adornos sueltos que no combinan, se caen o se ven cargados.
 
 **Hooks modulares:**
-- `V2-HOOK-A`: "¿Te ha pasado que tienes cobija pero igual sientes frío en la sala?"
-- `V2-HOOK-B`: "Cambié mi cobija de siempre por esta y no vuelvo atrás."
-- `V2-HOOK-C`: "Si tu cobija ya está peluda y fea, mira esta antes de comprar cualquier otra."
+- `V2-HOOK-A`: "¿Te pasa que decoras el cuarto para navidad y al final se ve todo desordenado?"
+- `V2-HOOK-B`: "Dejé de comprar adornos sueltos para el cuarto. Ahora hago esto."
+- `V2-HOOK-C`: "Si tus adornos de navidad no combinan entre sí, mira esto."
 
 **Guion (usando V2-HOOK-B):**
-- 0-3s: "Cambié mi cobija de siempre por esta y no vuelvo atrás."
-- 3-8s: "La que tenía era delgadita, se enredaba y ya se veía vieja. Esta es tipo ovejera, bien gruesa."
-- 8-15s: (Demo real: envolverse en la cobija en el sofá) "Abriga en serio, no es solo de adorno."
-- 15-22s: (Plano de cerca de la textura) "Y encima combina con cualquier decoración, no solo con la de navidad."
-- 22-25s: "Pagas cuando te llegue a la casa. Yo ya no vuelvo a la cobija delgadita."
+- 0-3s: "Dejé de comprar adornos sueltos para el cuarto. Ahora hago esto."
+- 3-8s: "Cada año compraba una cosa por aquí, otra por allá, y nada combinaba."
+- 8-15s: (Demo: cobija sobre la cama + cortina colgada) "Esta vez: cobija y cortina con el mismo estampado. Todo combina porque es el mismo diseño."
+- 15-22s: (Plano del cuarto terminado) "Y en enero lo guardo en una bolsa. Nada de cajas de adornos."
+- 22-25s: "Pagas cuando te llegue a la casa."
 
 **Storyboard (planos):**
-1. A cámara en el sofá, mostrando la cobija vieja (opcional, si se tiene) o simplemente hablando del problema.
-2. Demo envolviéndose con la cobija nueva.
-3. Detalle de textura de cerca.
-4. Plano final acogedor.
-5. Cierre a cámara.
+1. A cámara, cuarto con adornos sueltos (opcional) o hablando del problema.
+2. Demo: extender cobija, colgar cortina.
+3. Plano del cuarto terminado, cama y ventana a juego.
+4. Cierre a cámara.
 
-**Texto onscreen:** "mi cobija de siempre 😑" → "esta sí abriga de verdad"
+**Texto onscreen:** "adornos que no combinan 😩" → "cobija + cortina a juego ✨"
 
-**Nota de producción "ugly":** Grabado en el sofá real de la casa, luz de tarde/noche natural.
+**Nota de producción "ugly":** Grabado en el cuarto real, luz de tarde/noche natural.
 
-**Caption Meta:** "Gruesa, suave, y abriga de verdad — no solo de adorno. Pagas cuando te llegue. 🧣"
+**Caption Meta:** "Nada de adornos sueltos que no combinan: cobija y cortina con el mismo estampado navideño. Pagas cuando te llegue. 🎄"
 
-**Caption TikTok:** "por fin una cobija que sí calienta 😭 #hogar #cozy #colombia #paracontraentrega"
+**Caption TikTok:** "este año decoré el cuarto con solo 2 cosas 🙌 #navidad #hogar #colombia #paracontraentrega"
 
 ---
 
 ## 🎥 VIDEO 3 — Solution aware · Us vs. Them / Demo comparativa
 **Framework:** BAB + Value Equation (denominador) · **Duración:** 20-35s
 
-**Ángulo:** Comparación directa contra cobija delgada/genérica vs. esta (grosor, suavidad, cómo se ve en cámara/fotos para las visitas de diciembre).
+**Ángulo:** Comparación contra decorar el cuarto con adornos sueltos (tiempo, desorden, lo que no combina).
 
 **Hooks modulares:**
-- `V3-HOOK-A`: "Cobija normal vs. esta: la diferencia se siente y se nota."
-- `V3-HOOK-B`: "No todas las cobijas 'ovejeras' son iguales, te muestro por qué."
-- `V3-HOOK-C`: "Esto es lo que cambia cuando inviertes un poco más en la cobija de la sala."
+- `V3-HOOK-A`: "Decorar el cuarto con adornos sueltos vs. con esto: te muestro la diferencia."
+- `V3-HOOK-B`: "Menos cosas, más navidad. Así quedó mi cuarto."
+- `V3-HOOK-C`: "No necesitas 20 adornos para que tu cuarto se vea navideño."
 
 **Guion (usando V3-HOOK-A):**
-- 0-4s: "Cobija normal vs. esta: la diferencia se siente y se nota." (Plano de ambas cobijas lado a lado)
-- 4-12s: "La normal es delgada, se ve plana en cámara y en persona. Esta tiene volumen real, se ve premium sin serlo en precio."
-- 12-22s: (Demo lado a lado: doblarlas, tocarlas, ponerlas en el sofá) "Y a la hora de las fotos para las visitas de diciembre, esta sí luce."
-- 22-30s: "Si vas a comprar una sola cobija para toda la temporada, que sea la que se vea y se sienta bien. Pagas cuando te llegue."
+- 0-4s: "Decorar el cuarto con adornos sueltos vs. con esto: te muestro la diferencia."
+- 4-12s: (Lado izquierdo: cuarto con guirnaldas y adornos regados) "Así lo decoraba antes: guirnaldas, figuritas, cosas pegadas en la pared. Media tarde y se veía cargado."
+- 12-22s: (Lado derecho: cobija + cortina puestas) "Así lo decoré este año: cobija y cortina a juego. 10 minutos y se ve completo."
+- 22-30s: "Y cuando pasa la navidad, lo doblo y lo guardo. Paga cuando le llegue."
 
 **Storyboard (planos):**
-1. Plano de las dos cobijas extendidas lado a lado.
-2. Detalle de textura/grosor de cada una.
-3. Ambas puestas en el sofá, comparando cómo se ven.
-4. Plano final con la cobija elegida en uso.
-5. Cierre a cámara con CTA.
+1. Pantalla dividida: cuarto con adornos sueltos vs. cuarto con cobija + cortina.
+2. Detalle del estampado de la cobija y la cortina juntos.
+3. Plano de guardarlo doblado en enero.
+4. Cierre a cámara con CTA.
 
-**Texto onscreen:** "delgada y plana" vs. "gruesa y con volumen"
+**Texto onscreen:** "antes: media tarde decorando" vs. "ahora: 10 minutos"
 
-**Nota de producción "ugly":** Comparación real con cámara en mano, sin filtros ni edición de color forzada.
+**Nota de producción "ugly":** Cámara en mano, mismo cuarto en ambas tomas, sin filtros.
 
-**Caption Meta:** "No todas las cobijas 'gruesas' son iguales. Esta se ve y se siente distinto. Pagas cuando te llegue. 🎄"
+**Caption Meta:** "Menos adornos, más navidad: cobija y cortina a juego y tu cuarto queda listo en minutos. Pagas cuando te llegue. 🎄"
 
-**Caption TikTok:** "la diferencia es real, no es solo marketing 👀 #hogar #antesydespues #colombia"
+**Caption TikTok:** "la diferencia es brutal 👀 #navidad #antesydespues #colombia"
 
 ---
 
 ## 🎥 VIDEO 4 — Product aware · UGC review / testimonial de cliente
 **Framework:** Epiphany de cliente + garantía/COD · **Duración:** 15-25s
 
-**Ángulo:** Reforzar confianza — cliente real contando cómo ha aguantado el uso/lavado y despejando la duda de si en verdad llega y se ve como en las fotos.
+**Ángulo:** Reforzar confianza — cliente real mostrando que el estampado llegó igual a la foto y que pagó al recibir.
 
 **Hooks modulares:**
-- `V4-HOOK-A`: "Llevo un mes usando esta cobija todas las noches y así se ve."
-- `V4-HOOK-B`: "Esto es lo que no te cuentan antes de comprar una cobija por internet."
-- `V4-HOOK-C`: "Sí llegó igual a la foto, y sí pagué cuando la recibí."
+- `V4-HOOK-A`: "Me llegó la cobija con la cortina a juego y así se ve en mi cuarto."
+- `V4-HOOK-B`: "Esto es lo que no te dicen antes de comprar decoración navideña por internet."
+- `V4-HOOK-C`: "Sí llegó igual a la foto, y sí pagué cuando lo recibí."
 
 **Guion (usando V4-HOOK-A):**
-- 0-3s: "Llevo un mes usando esta cobija todas las noches y así se ve."
-- 3-10s: "No se ha aplastado, no ha perdido el color, y después de lavarla sigue igual de suave."
+- 0-3s: "Me llegó la cobija con la cortina a juego y así se ve en mi cuarto."
+- 3-10s: (Detalle del estampado) "Los colores llegaron igualitos a la foto, y la cobija es gruesa, sí abriga."
 - 10-17s: "El pedido llegó rápido y pagué contraentrega, sin adelantar nada."
-- 17-24s: (Plano de la cobija en uso, un mes después) "Si estabas dudando si comprar, de mi parte va con toda la recomendación."
+- 17-24s: (Plano wide del cuarto) "Si estabas dudando, de mi parte va con toda la recomendación."
 
 **Storyboard (planos):**
-1. A cámara, en el sofá o la cama, ambiente casual.
-2. Detalle de la cobija mostrando que sigue en buen estado.
-3. Insert de texto "pagué contraentrega" si no hay grabación real del momento.
-4. Cierre a cámara con recomendación directa.
+1. A cámara, en el cuarto, ambiente casual.
+2. Detalle del estampado en la cobija y en la cortina.
+3. Insert de texto "pagué contraentrega" si no hay toma real del momento.
+4. Cierre a cámara con recomendación.
 
-**Texto onscreen:** "1 mes después..." → "sigue igual de suave" → "pagas cuando te llega"
+**Texto onscreen:** "llegó igual a la foto ✅" → "pagas cuando te llega"
 
 **Nota de producción "ugly":** Testimonio real y directo, sin script leído.
 
-**Caption Meta:** "1 mes de uso real: no se aplasta, no pierde color, y llegó pagando contraentrega. 🎄"
+**Caption Meta:** "Llegó igual a la foto y pagué al recibir. Así quedó mi cuarto con la cobija y la cortina a juego. 🎄"
 
-**Caption TikTok:** "mi honesta opinión después de un mes usándola 🙋‍♀️ #review #hogar #colombia #paracontraentrega"
+**Caption TikTok:** "mi honesta opinión 🙋‍♀️ #review #navidad #colombia #paracontraentrega"
 
 ---
 
-## 🖼️ IMAGEN 1 — Product aware · Grid de social proof
+## 🖼️ IMAGEN 1 — Product aware · Catálogo de diseños + social proof
 **Nivel:** 4. Product aware (refuerzo de escepticismo)
 
-**Headline:** "La cobija que ya está en cientos de salas para esta navidad"
-**Texto on-image:** "+ suave · + abrigo · se ve premium"
-**Caption:** "No eres la única persona buscando algo que combine comodidad y buena presentación para diciembre. Así lucen en casas reales. Pagas cuando te llega. 🎄✅"
-**Brief visual:** Grid 2x2 o 3x2 con: (1) foto de la cobija puesta en un sofá real, (2) captura de reseña/testimonio con estrellas, (3) detalle de textura de cerca, (4) foto ambientada con luces cálidas de fondo. Fondo limpio, tipografía simple.
+**Headline:** "Cobija + cortina a juego para esta navidad"
+**Texto on-image:** Grid con 4 diseños (Papá Noel crema, cuadros verde/rojo con moños, muñecos de nieve azul, Papá Noel rojo) + badge de 5 estrellas.
+**Caption:** "Elige tu diseño: cobija y cortina con el mismo estampado para que tu cuarto quede completo esta navidad. Pagas cuando te llega. 🎄✅"
+**Brief visual:** Cuarto completo en cada panel: cobija estampada sobre la cama + cortina del mismo estampado en la ventana. Almohadas lisas blancas (no son parte del producto).
+**⚠️ Antes de pautar:** si agregas un número de clientes al badge, que sea la cifra real de ventas — prueba social inventada viola las políticas de Meta/TikTok.
 
-**Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWWuD0Uss) (media id `MAHWWuD0Uss`) — editable: reemplazar las 4 fotos placeholder generadas por IA por fotos reales del producto/clientes en cuanto existan.
+**Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWWoyoMAM) (media id `MAHWWoyoMAM`) — imágenes generadas por IA; reemplazar por fotos reales del producto en cuanto existan.
 
 ---
 
 ## 🖼️ IMAGEN 2 — Most aware · Text-based con oferta
 **Nivel:** 5. Most aware (listo, falta el gatillo)
 
-**Headline:** "Pides hoy, decoras tu sala esta semana"
-**Texto on-image:** "Envío a toda Colombia · Pagas contraentrega · Ideal para diciembre"
-**Caption:** "Sin adelantar un peso. Pides hoy, y solo pagas cuando la cobija esté en tus manos. 🎄"
-**Brief visual:** Foto de producto en primer plano sobre fondo navideño sutil (sin saturar de elementos), badge visual "Pagas contraentrega" y "Envío a todo el país". Sin descuentos falsos ni contador de tiempo engañoso.
+**Headline:** "Cobija + cortina: tu cuarto listo para navidad"
+**Texto on-image:** "Pagas contraentrega · Envío a toda Colombia"
+**Caption:** "Sin adelantar un peso. Pides hoy, y solo pagas cuando la cobija y la cortina estén en tus manos. 🎄"
+**Brief visual:** Cuarto navideño con la cobija roja de Papá Noel sobre la cama y la cortina del mismo estampado en la ventana; árbol y regalos al lado. Badges "Pagas contraentrega" y "Envío a toda Colombia". Sin descuentos falsos ni contador de tiempo.
 
-**Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWWiKn8EQ) (media id `MAHWWiKn8EQ`) — editable: reemplazar la foto de producto placeholder por una foto real de la cobija en cuanto exista.
+**Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWWnjdEvk) (media id `MAHWWnjdEvk`) — imagen generada por IA; reemplazar por foto real del producto en cuanto exista.
 
 ---
 
 ## ✅ Checklist de compliance (las 6 piezas)
 - [x] Sin precio en ningún ad.
-- [x] Sin claims falsos de material (no decir "100% lana" u otro material específico salvo que esté confirmado con el proveedor).
-- [x] Sin promesas absolutas ("nunca se aplasta", "dura para siempre") — lenguaje de experiencia personal ("después de un mes sigue igual").
+- [x] El producto se muestra como lo que es: cobija + cortina. Nada de sábanas, fundas u otros artículos que no vienen en el set.
+- [x] Sin claims de material no confirmado (no decir "100% algodón", "térmica", etc. hasta confirmarlo con el proveedor).
+- [x] Sin promesas absolutas; lenguaje de experiencia personal.
 - [x] CTA COD explícito y verdadero: "pagas cuando lo recibas".
-- [x] Sin uso de contenido con copyright (música/clips de películas navideñas reales) en el ad final — solo referencia conceptual en el guion.
+- [x] Sin logos ni marcas de terceros en los creativos.
 - [x] Sin descuentos ficticios ni contadores de urgencia falsos.
 
 ## 📋 Plan de testing
-- Lanzar los 6 creativos en una sola campaña ASC/Advantage+ (Meta) + Smart+ (TikTok); smoke test 3-4 días con presupuesto bajo por pieza.
-- Aprovechar la ventana estacional: como diciembre se acerca, considerar refresco de hooks cada 1-2 semanas en TikTok (ciclo de vida corto) para capturar distintos momentos de "urgencia de decorar".
-- Métricas: hook rate, hold rate, CTR, CPA. Matar piezas débiles antes del día 4, escalar lo que muestre tracción temprana.
+- Lanzar los 6 creativos en una campaña ASC/Advantage+ (Meta) + Smart+ (TikTok); smoke test 3-4 días con presupuesto bajo por pieza.
+- Métricas: hook rate, hold rate, CTR, CPA. Matar piezas débiles antes del día 4, escalar lo que muestre tracción.
+- Producto estacional: la ventana fuerte es octubre-diciembre. Refrescar hooks cada 1-2 semanas en TikTok.
+- Testear qué diseño vende más (Papá Noel rojo vs. cuadros vs. muñecos de nieve) con variantes de la Imagen 2, una por diseño.
