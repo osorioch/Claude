@@ -166,7 +166,7 @@
 **Caption:** "No eres la única persona buscando dormir mejor y que el cuarto se vea bien para diciembre. Así lucen en casas reales. Pagas cuando te llega. 🛏️✅"
 **Brief visual:** Grid 2x2 o 3x2 con: (1) foto de la cama tendida en un cuarto real, (2) captura de reseña/testimonio con estrellas, (3) detalle de textura de cerca (sábana y funda), (4) foto ambientada con luz cálida de cuarto. Fondo limpio, tipografía simple.
 
-**Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWWhnBQnE) (media id `MAHWWhnBQnE`) — editable: reemplazar las 4 fotos placeholder generadas por IA por fotos reales del producto/clientes en cuanto existan.
+**Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWWrgBBcY) (media id `MAHWWrgBBcY`) — editable: reemplazar las 4 fotos placeholder generadas por IA por fotos reales del producto/clientes en cuanto existan.
 
 ---
 
@@ -178,7 +178,7 @@
 **Caption:** "Sin adelantar un peso. Pides hoy, y solo pagas cuando el tendido esté en tus manos. 🎄"
 **Brief visual:** Foto de producto (sábanas + fundas dobladas o tendidas) en primer plano sobre fondo navideño sutil, badge visual "Pagas contraentrega" y "Envío a todo el país". Sin descuentos falsos ni contador de tiempo engañoso.
 
-**Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWWguOF48) (media id `MAHWWguOF48`) — editable: reemplazar la foto de producto placeholder por una foto real del tendido en cuanto exista.
+**Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWWh_7qT8) (media id `MAHWWh_7qT8`) — editable: reemplazar la foto de producto placeholder por una foto real del tendido en cuanto exista.
 
 ---
 
