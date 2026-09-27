@@ -1,7 +1,7 @@
 # CAMPAÑA LANZAMIENTO — Tendido de Cama Navideño (juego de sábanas) — labbazar.co — 2026-09-27
 
 ## Contexto
-- **Producto:** Juego de tendido de cama navideño (sábanas + fundas, extra suaves), combo con la cobija para ambientar cuarto y sala en diciembre
+- **Producto:** Juego de tendido de cama navideño (cubrelecho/duvet + fundas de almohada) **con cortinas a juego del mismo estampado**. Estampados grandes y llamativos: Papá Noel, muñecos de nieve, renos, cuadros escoceses con moños, rayas con copos, varios colores (crema, rojo, verde, azul, amarillo). Combo con la cobija para ambientar cuarto y sala en diciembre.
 - **País/idioma:** Colombia (español neutro)
 - **Tienda:** labbazar.co (Shopify)
 - **Oferta COD:** pagas cuando lo recibes, envío contraentrega (definir precio final en landing)
@@ -161,24 +161,25 @@
 ## 🖼️ IMAGEN 1 — Product aware · Grid de social proof
 **Nivel:** 4. Product aware (refuerzo de escepticismo)
 
-**Headline:** "El tendido que ya está en cientos de camas para esta navidad"
-**Texto on-image:** "+ suave · + duradero · se ve de hotel"
+**Headline:** "Tendido + cortinas a juego para esta navidad"
+**Texto on-image:** Grid con 4 diseños (Papá Noel crema, cuadros verde/rojo con moños, muñecos de nieve azul, Papá Noel rojo) + badge de estrellas "+ de 1.000 hogares ya lo tienen"
+**⚠️ Antes de pautar:** el número "+ de 1.000 hogares" es placeholder. Reemplazarlo por la cifra real de ventas del producto (o quitarlo) — prueba social inventada viola las políticas de Meta/TikTok.
 **Caption:** "No eres la única persona buscando dormir mejor y que el cuarto se vea bien para diciembre. Así lucen en casas reales. Pagas cuando te llega. 🛏️✅"
 **Brief visual:** Grid 2x2 o 3x2 con: (1) foto de la cama tendida en un cuarto real, (2) captura de reseña/testimonio con estrellas, (3) detalle de textura de cerca (sábana y funda), (4) foto ambientada con luz cálida de cuarto. Fondo limpio, tipografía simple.
 
-**Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWWrgBBcY) (media id `MAHWWrgBBcY`) — editable: reemplazar las 4 fotos placeholder generadas por IA por fotos reales del producto/clientes en cuanto existan.
+**Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWWjvGIAg) (media id `MAHWWjvGIAg`) — editable: reemplazar las 4 fotos placeholder generadas por IA por fotos reales del producto/clientes en cuanto existan.
 
 ---
 
 ## 🖼️ IMAGEN 2 — Most aware · Text-based con oferta
 **Nivel:** 5. Most aware (listo, falta el gatillo)
 
-**Headline:** "Pides hoy, tu cama luce distinta esta semana"
+**Headline:** "Pides hoy, tu cuarto se viste de navidad esta semana"
 **Texto on-image:** "Envío a toda Colombia · Pagas contraentrega · Ideal para diciembre"
 **Caption:** "Sin adelantar un peso. Pides hoy, y solo pagas cuando el tendido esté en tus manos. 🎄"
 **Brief visual:** Foto de producto (sábanas + fundas dobladas o tendidas) en primer plano sobre fondo navideño sutil, badge visual "Pagas contraentrega" y "Envío a todo el país". Sin descuentos falsos ni contador de tiempo engañoso.
 
-**Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWWh_7qT8) (media id `MAHWWh_7qT8`) — editable: reemplazar la foto de producto placeholder por una foto real del tendido en cuanto exista.
+**Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWWjApFHE) (media id `MAHWWjApFHE`) — editable: reemplazar la foto de producto placeholder por una foto real del tendido en cuanto exista.
 
 ---
 
