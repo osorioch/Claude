@@ -18,13 +18,25 @@ Esta nota no bloquea las tarjetas de testimonio de abajo (son sobre atención/de
 
 ## Tarjetas de testimonio (prueba social de atención)
 
-| Cliente | Ciudad | Calificación | Creativo |
-|---|---|---|---|
-| Gladis | Soledad | ⭐⭐⭐⭐⭐ | [Abrir en Canva](https://www.canva.com/M/MAHWbEZO5oc) |
-| Wilson | Bogotá | ⭐⭐⭐⭐⭐ | [Abrir en Canva](https://www.canva.com/M/MAHWbCydiOg) |
-| Hernán | Manizales | ⭐⭐⭐⭐⭐ | [Abrir en Canva](https://www.canva.com/M/MAHWbERS5_U) |
-| Sandra Milena | — | ⭐⭐⭐⭐⭐ | [Abrir en Canva](https://www.canva.com/M/MAHWbIdSq2U) |
-| Yeison Alexander | — | ⭐⭐⭐⭐⭐ | [Abrir en Canva](https://www.canva.com/M/MAHWbEbNdyI) |
+**Gladis, Soledad** — [editar en Canva](https://www.canva.com/M/MAHWbEZO5oc)
+
+![Testimonio de Gladis](../creativos/testimonio-gladis-soledad.jpg)
+
+**Wilson, Bogotá** — [editar en Canva](https://www.canva.com/M/MAHWbCydiOg)
+
+![Testimonio de Wilson](../creativos/testimonio-wilson-bogota.jpg)
+
+**Hernán, Manizales** — [editar en Canva](https://www.canva.com/M/MAHWbERS5_U)
+
+![Testimonio de Hernán](../creativos/testimonio-hernan-manizales.jpg)
+
+**Sandra Milena** — [editar en Canva](https://www.canva.com/M/MAHWbIdSq2U)
+
+![Testimonio de Sandra Milena](../creativos/testimonio-sandra-milena.jpg)
+
+**Yeison Alexander** — [editar en Canva](https://www.canva.com/M/MAHWbEbNdyI)
+
+![Testimonio de Yeison Alexander](../creativos/testimonio-yeison-alexander.jpg)
 
 **Uso sugerido:** grid de social proof en la ficha de producto o como imagen de refuerzo (nivel "Product aware") en la campaña de este jabón, igual que en las campañas de labbazar. Como son testimonios de atención/despacho y no del jabón en sí, lo ideal es etiquetarlos en la tienda como "Así califican nuestro servicio" en vez de atribuirlos directamente al producto.
 
